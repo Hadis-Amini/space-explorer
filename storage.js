@@ -41,3 +41,5 @@ function isFavorite(id) {
     planet => planet.id === id
   );
 }
+
+
