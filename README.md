@@ -63,12 +63,12 @@ Space-Explorer/
 http://space-explorer-amini.netlify.app/
 
 ##  Screenshots
+<img width="713" height="1280" alt="photo_2026-10-04_11-52-38" src="https://github.com/user-attachments/assets/892cf771-9da9-434c-97a8-360f220ddee0" />
+<img width="661" height="1280" alt="photo_2026-10-04_11-52-52" src="https://github.com/user-attachments/assets/6754b4ca-07b3-47aa-a57e-12ade66ad578" />
+<img width="781" height="1280" alt="photo_2026-10-04_11-52-57" src="https://github.com/user-attachments/assets/e024d99b-201f-49ec-973d-ac4962d6fea7" />
 
-<img width="1680" height="948" alt="project-preview-1" src="https://github.com/user-attachments/assets/74cf147f-0ddd-4fda-95ac-1cdcc2877235" />
 
-<img width="1680" height="946" alt="project-preview-2" src="https://github.com/user-attachments/assets/6247a54d-88c6-493c-9e93-e65f74e1e3af" />
 
-<img width="1680" height="948" alt="project-preview-3" src="https://github.com/user-attachments/assets/aac1e3ec-99bc-4a48-87b2-75b9e9ebdef7" />
 
 
 
